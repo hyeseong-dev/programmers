@@ -8,4 +8,4 @@ example1 = ["We", "are", "the", "world!"]
 print(solution(example1))
 
 # lambda 함수 
-# solution  = lambda strlist : list(map(len< strlist))
+# solution = lambda strlist: list(map(len, strlist))

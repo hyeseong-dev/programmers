@@ -19,4 +19,5 @@ def solution(n):
     return answer
 
 
-result = solution(15)
+result = solution(9)
+print(result)
